@@ -1,0 +1,193 @@
+---
+title: ST325 - Seminar
+subtitle: "How to write a Literature Review"
+author: Dr Jagath Senarathne
+institute: Department of Statistics and Computer Science 
+format: 
+  revealjs:
+      theme: [serif, custom.scss]
+      slide-number: true
+      chalkboard: 
+        theme: whiteboard
+transition: slide
+background-transition: fade
+editor: visual
+---
+
+## What is a Literature Review?
+
+-   A literature review is the writing process of summarizing, synthesizing and/or critiquing the literature found as a result of a literature search.
+
+-   A comprehensive summary of previous research on a topic.
+
+-   It should enumerate, describe, summarize, objectively evaluate and clarify this previous research.
+
+    ![](images/question-mark.jpg){fig-align="right"}
+
+## Objective of a literature Review
+
+-   Give a theoretical base for the research and help the author determine the nature of their research.
+
+-   The literature review acknowledges the work of previous researchers, and in so doing, assures the reader that your work has been well conceived.
+
+-   It may be used as background or context for a primary research project.
+
+## Reasons to review the literature:
+
+-   Identify the developments in the field of study
+
+-   Learn about the information sources and the research methodologies
+
+-   Find gaps in the literature that can become research questions
+
+-   Validate the originality of a research project
+
+-   Evaluate the methods and identify errors to avoid
+
+-   Highlight the strengths, weaknesses and controversies in the field of study
+
+-   Identify the subject experts
+
+## Types of Literature Reviews
+
+1.  A stand alone literature review.
+
+    -   A class assignment
+
+    -   A review article
+
+2.  A literature review can also be a part of a large research document.
+
+    -   A thesis / dissertation
+
+    -   An academic journal article introduction
+
+## When writing your review ...
+
+-   Inform the audience of the developments in the field
+
+-   Establish your credibility
+
+-   Discuss the relevance and significance of your question(s)
+
+-   Provide the context for your methodological approach
+
+-   Discuss the relevance and appropriateness of your approach
+
+# Literature Review - Tips for each step
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Use effective searching methods
+
+-   Use appropriate search tools
+
+    ![](images/googlescholar.png){width="314"} ![](images/pubmed.jpg){width="187"} ![](images/scienceDirect.png){width="252"} ![](images/researchGate.png){width="140"}
+
+-   Use multiple keywords when using online search tools
+
+-   Experimenting with different search terms
+
+-   Make use of search functions with different options
+
+    -   specify a date range
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Always keep an accurate record of all of the sources
+
+-   Can use an online repository like Google drive to store your articles
+
+-   Use a proper naming structure when storing multiple documents
+
+-   Maintain a bibliography file or reference list of all the sources
+:::
+
+![](images/naming.jpg)
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Use a reading summary sheet
+
+-   Can use an electronic document such as excel worksheet or Google sheet.
+
+-   Capture the key information and the argument from your sources.
+
+-   Make space to add your own evaluation
+
+    ![](images/SUMMARY-ARTICLES.png){fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Select the most relevant articles for your literature review
+
+-   Check the relevance of the selected sources to your topic and research question(s).
+
+-   Limit the amount of descriptive reporting.
+
+-   Can consider the time frame for limiting your literature search.
+
+![](images/paste-6C2911C9.png){width="1080"}
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Create a logical structure for your literature review
+
+-   This structure could be chronological or thematic or another form more suitable for your investigation.
+
+-   Make sure your research voice comes through clearly.
+
+    -   Think about how you have developed your views.
+
+    -   What evidence convinced you?
+
+    -   Indicate your own stance
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Make a summary of the key elements of your review
+
+-   Can use to justify the research gap
+
+-   Can Identify possible areas of research
+
+-   You can refer to this as you carry out your own research investigation.
+
+-   You can revisit and check how it contributes to the theoretical developments and overall conclusions of your study.
+:::
+
+------------------------------------------------------------------------
+
+## Key points to remember
+
+-   It is not a descriptive list.
+
+-   It is not a book by book and article by article summary.
+
+-   It is not a survey of every single thing that's ever been written about your topic.
+
+-   It must tell the reader what knowledge and ideas have been established and outline their strengths and weaknesses.
+
+------------------------------------------------------------------------
+
+## Some useful links
+
+-   <https://www.youtube.com/watch?v=1nqzcfw1wDE&t=17s>
+
+-   <https://www.youtube.com/watch?v=Vc_Yu_61Ymg>
+
+-   <https://www.youtube.com/watch?v=zIYC6zG265E>
+
+-   <https://www.youtube.com/watch?v=-ny_EUJXHHs>
+
+-   <https://www.rlf.org.uk/resources/what-is-a-literature-review/>
