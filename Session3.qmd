@@ -1,6 +1,6 @@
 ---
 title: ST325 - Seminar
-subtitle: "How to write a Literature Review"
+subtitle: "How to Write a Literature Review"
 author: Dr Jagath Senarathne
 institute: Department of Statistics and Computer Science 
 format: 
